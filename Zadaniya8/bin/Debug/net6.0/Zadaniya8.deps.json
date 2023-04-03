@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zadaniya8/1.0.0": {
+        "runtime": {
+          "Zadaniya8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadaniya8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
